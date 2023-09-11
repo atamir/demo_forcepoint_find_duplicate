@@ -1,6 +1,6 @@
 # demo_forcepoint_find_duplicate
 
-usage: python duplicates.py dirname
+duplicates.py <folder> [<folder>...]
 
 # testing:
 run random_file_generator.sh it will create 20 files in random sizes in the folder
